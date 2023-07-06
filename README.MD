@@ -1,4 +1,4 @@
-# build using python v3.11.4 by @dsakhuria
+# built using python v3.11.4 by @dsakhuria
 
 you will have to install required deps to make the sourcecode work without errors: 
 
